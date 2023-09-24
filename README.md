@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @LegolasArkantos
-- 👀 I’m interested in biryani
-- 🌱 I’m currently learning ...how to biryani
-- 💞️ I’m looking to collaborate on ...biryani
-- 📫 How to reach me ....dont
+- 👀 I’m interested in 
+- 🌱 I’m currently learning ...
+- 💞️ I’m looking to collaborate on ...
+- 📫 How to reach me ....
 
 <!---
 LegolasArkantos/LegolasArkantos is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
